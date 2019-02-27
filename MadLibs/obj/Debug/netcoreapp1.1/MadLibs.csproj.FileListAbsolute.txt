@@ -1,0 +1,9 @@
+/Users/epicodus_staff/Desktop/Ben/MadLibs.Solution/MadLibs/bin/Debug/netcoreapp1.1/MadLibs.deps.json
+/Users/epicodus_staff/Desktop/Ben/MadLibs.Solution/MadLibs/bin/Debug/netcoreapp1.1/MadLibs.runtimeconfig.json
+/Users/epicodus_staff/Desktop/Ben/MadLibs.Solution/MadLibs/bin/Debug/netcoreapp1.1/MadLibs.runtimeconfig.dev.json
+/Users/epicodus_staff/Desktop/Ben/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp1.1/MadLibs.csproj.CoreCompileInputs.cache
+/Users/epicodus_staff/Desktop/Ben/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp1.1/MadLibs.AssemblyInfo.cs
+/Users/epicodus_staff/Desktop/Ben/MadLibs.Solution/MadLibs/bin/Debug/netcoreapp1.1/MadLibs.dll
+/Users/epicodus_staff/Desktop/Ben/MadLibs.Solution/MadLibs/bin/Debug/netcoreapp1.1/MadLibs.pdb
+/Users/epicodus_staff/Desktop/Ben/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp1.1/MadLibs.dll
+/Users/epicodus_staff/Desktop/Ben/MadLibs.Solution/MadLibs/obj/Debug/netcoreapp1.1/MadLibs.pdb
